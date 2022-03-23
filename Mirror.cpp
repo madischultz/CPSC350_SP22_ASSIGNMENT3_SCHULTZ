@@ -33,15 +33,6 @@ int Mirror::numNeighbors(int w, int h, Grid *g){
         numNeighbors++;
       }
     }
-
-      // if (g->currentGrid[w][h - 1] == 'X'){
-      //   numNeighbors += 1;
-      // } //REFLECTION (should get counted again in classic)
-
-      // if (g->currentGrid[w][h + 1] == 'X'){
-      //   numNeighbors += 1;
-      // } //REFLECTION (should get counted again in classic)
-
   }
 
   if (h == 0 || h == hEdge){
@@ -51,24 +42,6 @@ int Mirror::numNeighbors(int w, int h, Grid *g){
       }
     }
   }
-
-  // if (h == 0 || h == hEdge){
-  //
-  //   if (w != 0 && w != wEdge){
-  //
-  //     if (g->currentGrid[w][h] == 'X'){
-  //       numNeighbors++;
-  //     }
-  //
-  //     // if (g->currentGrid[w - 1][h] == 'X'){
-  //     //   numNeighbors++;
-  //     // } //REFLECTION (should get counted again in classic)
-  //
-  //     // if (g->currentGrid[w + 1][h] == 'X'){
-  //     //   numNeighbors++;
-  //     // } //REFLECTION (should get counted again in classic)
-  //   }
-  // }
 
   // REGULAR/CLASSIC NEIGHBORS
 

@@ -53,12 +53,3 @@ void Mode::enter(){
     }
   }
 }
-
-// void Mode::pause(){
-//   while (true){
-//     char c = getchar();
-//     if (c == '\n'){
-//       exit(1);
-//     }
-//   }
-// }
