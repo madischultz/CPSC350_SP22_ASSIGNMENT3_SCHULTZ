@@ -1,6 +1,6 @@
 # CPSC350_SP22_ASSIGNMENT3_SCHULTZ
 
-USING ONE LATE DAY
+**USING ONE LATE DAY**
 
 Madi Schultz
 2366519
@@ -24,5 +24,4 @@ https://askubuntu.com/questions/906742/what-is-sh-1-pause-not-found - pausing un
 
 https://stackoverflow.com/questions/15056406/append-to-a-file-with-fstream-instead-of-overwriting - appending to file, instead of write over
 
-https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/#:~:text=The%20rand()%20function%20is,numbers%20each%20time%20it%20runs.
-- getting new random numbers each time, not the same for each compile
+https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/#:~:text=The%20rand()%20function%20is,numbers%20each%20time%20it%20runs. - getting new random numbers each time, not the same for each compile
