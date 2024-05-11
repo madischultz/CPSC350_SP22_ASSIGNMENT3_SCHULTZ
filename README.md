@@ -1,9 +1,8 @@
 # CPSC350_SP22_ASSIGNMENT3_SCHULTZ
 
-***USING ONE LATE DAY***
+***THIS SOURCE CODE WAS WRITTEN FOR AN ASSIGNMENT FROM THE CPSC 350: DATA STRUCTURES CLASS AT CHAPMAN UNIVERSITY WITH RENE GERMAN***
 
 Madi Schultz
-2366519
 
 Source Files:
 Mode.h Mode.cpp
@@ -12,10 +11,6 @@ Doughnut.h Doughnut.cpp
 Mirror.h Mirror.cpp
 FileProcessor.h FileProcessor.cpp
 main.cpp
-
-Known Errors:
-- only 'Enter' mode of outputting follows the press enter to exit rule
-- uses file name not path
 
 References:
 https://stackoverflow.com/questions/10922900/is-it-possible-to-wait-a-few-seconds-before-printing-a-new-line-in-c - pausing between printing
