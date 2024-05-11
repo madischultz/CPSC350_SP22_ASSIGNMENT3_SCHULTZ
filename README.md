@@ -1,8 +1,9 @@
 # CPSC350_SP22_ASSIGNMENT3_SCHULTZ
+# Madi Schultz
 
 ***THIS SOURCE CODE WAS WRITTEN FOR AN ASSIGNMENT FROM THE CPSC 350: DATA STRUCTURES CLASS AT CHAPMAN UNIVERSITY WITH RENE GERMAN***
 
-Madi Schultz
+The program simulates John Conway's Game of Life, a cellular automaton.
 
 Source Files:
 Mode.h Mode.cpp
